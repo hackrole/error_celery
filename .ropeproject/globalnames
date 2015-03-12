@@ -1,0 +1,5 @@
+€}q(Ueasemob.client]q(UAUaeUeasemob_site]Ueasemob_site.celery]qUappqaUeasemob]Ueasemob_site.settings]q(UUSE_TZqUUSE_L10NqU
+BROKER_URLqUnameq	ULANGUAGE_CODEq
+UCELERY_MONGODB_BACKEND_SETTINGSqUUSE_I18NqU	DATABASESqU	TIME_ZONEqU
+STATIC_URLqUROOT_URLCONFqUTEMPLATE_DEBUGqUWSGI_APPLICATIONqUMIDDLEWARE_CLASSESqUDEBUGqUALLOWED_HOSTSqU
+SECRET_KEYqUINSTALLED_APPSqUCELERY_RESULT_BACKENDqUBASE_DIRqeUeasemob_site.urls]qUurlpatternsqaUeasemob.views]qUhelloqaUeasemob.tasks]u.
